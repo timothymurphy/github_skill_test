@@ -5,9 +5,9 @@ A repo used during the skill test on the Github workflow.
 
 During this skill test, you will have to:
 
-* Fork the project to your Github account
-* Clone the project to your laptop
-* Make a change to the project
-* Commit and Push to your fork
-* Create a Pull Request
-* Merge changes from `upstream`
+1. Fork the project to your Github account
+2. Clone the project to your laptop
+3. Make a change to the project
+4. Commit and Push to your fork
+5. Create a Pull Request
+6. Merge changes from `upstream`
