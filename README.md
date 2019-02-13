@@ -3,11 +3,11 @@
 
 A repo used during the skill test on the Github workflow.
 
-During this skill test, a student will have to:
+During this skill test, you will have to:
 
-* Fork the project
-* Clone the project
+* Fork the project to your Github account
+* Clone the project to your laptop
 * Make a change to the project
-* Merge changes from `upstream`
 * Commit and Push to your fork
 * Create a Pull Request
+* Merge changes from `upstream`
